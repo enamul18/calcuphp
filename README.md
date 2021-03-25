@@ -1,4 +1,4 @@
-# calcuphp Functions (What this application can do)
+# calcuphp Functions (What this application can do, how it is built, how to configure)
  
 > Total 12 arithmatic operations. 
   ----------------------------------------------------------- 
